@@ -83,3 +83,4 @@ Gatsby `develop` uses the `development` config in `.ghost.json` - while Gatsby `
 # Copyright & License
 
 Copyright (c) 2013-2019 Ghost Foundation - Released under the [MIT license](LICENSE).
+# ipadorusa
